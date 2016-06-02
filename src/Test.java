@@ -7,6 +7,8 @@ public class Test {
 		Byte byte2 = 1;
 		
 		System.out.println(byte1 == byte2);
+		
+		System.out.println("test branch");
 
 	}
 
