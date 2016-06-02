@@ -21,6 +21,7 @@ public class Test {
 		System.out.println("another test branch");
 
 
+		System.out.println("merge master to branch");
 	}
 
 }
