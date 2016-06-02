@@ -9,6 +9,8 @@ public class Test {
 		System.out.println(byte1 == byte2);
 		
 		System.out.println("test branch");
+		
+		System.out.println("another test branch");
 
 	}
 
