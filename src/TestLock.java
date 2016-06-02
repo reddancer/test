@@ -5,6 +5,8 @@ public class TestLock implements Runnable{
 		for(int i = 0; i < 4; i++){
 			new Thread(new TestLock()).start();
 		}
+		
+		System.out.println("lalal");
 	}
 
 	@Override
