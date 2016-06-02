@@ -7,6 +7,8 @@ public class TestLock implements Runnable{
 		}
 		
 		System.out.println("lalal");
+		
+		System.out.println("master");
 	}
 
 	@Override
